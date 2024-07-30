@@ -1,7 +1,7 @@
 ---
-name: Anything
+name: Docs
 about: 무엇이든 작성 할 수 있는 템플릿
-title: '[OOOO] 제목을 입력해주세요'
+title: '[Docs] 제목을 입력해주세요'
 labels: ''
 assignees: ''
 ---
